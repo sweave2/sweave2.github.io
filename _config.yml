@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sam Weaver / Academic Website"
 title_separator          : "-"
-name                     : &name "Sam Weaver"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://sweave2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
