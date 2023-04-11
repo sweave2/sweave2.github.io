@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
+title: "Amazon Deforestation Analysis"
 excerpt: "Deforestation analysis using ENVI Classifications<br/><img src='/images/portfolio_preview.PNG'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Changes in Forest Cover in the West Amazon Rainforest
+
+#### Landsat imagery comparing 2014-2021 amazon rainforest
+<img src='/images/before_after_amazon.PNG'>
+
+#### ENVI Classification comparison of 2014-2021
+<img src='/images/ENVI_data_compare.PNG'>
+Green regions represent dense forest while red represents other landcover.
+Total pixel coverage is compared to show a 5% decrease in forested land.
