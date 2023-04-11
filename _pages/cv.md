@@ -1,13 +1,6 @@
 ---
-title: "Resume"
-author: "Sam Weaver"
-date: "3/9/2023"
-output: html_document
----
-
----
 layout: archive
-title: "Resume"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -32,6 +25,7 @@ Skills
 * ENVI
 * JavaScript, Python, RStudio
 * ArcGIS Pro
+* QGIS
 * AutoCAD
 * REVIT
 * MS Office
