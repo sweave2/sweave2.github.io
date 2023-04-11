@@ -6,6 +6,8 @@ collection: portfolio
 
 ## Changes in Forest Cover in the West Amazon Rainforest
 
+<a href="/files/portfolio_project_paper.pdf">Changes in Forest Cover (pdf)</a>
+
 #### Landsat imagery comparing 2014-2021 amazon rainforest
 <img src='/images/before_after_amazon.PNG'>
 
@@ -13,3 +15,4 @@ collection: portfolio
 <img src='/images/ENVI_data_compare.PNG'>
 Green regions represent dense forest while red represents other landcover.
 Total pixel coverage is compared to show a 5% decrease in forested land.
+
