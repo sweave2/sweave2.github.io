@@ -27,5 +27,3 @@ Skills
 * ArcGIS Pro
 * QGIS
 * AutoCAD
-* REVIT
-* MS Office
