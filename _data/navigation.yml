@@ -1,6 +1,9 @@
 # main links links
 main:  
 
+  - title: "Final Project"
+    url: /final/
+
   - title: "Portfolio"
     url: /portfolio/
     
@@ -9,6 +12,3 @@ main:
     
   - title: "Guide"
     url: /markdown/
-
-  - title: "Final Project
-    url: /final/
