@@ -24,6 +24,7 @@ Obtained 1-year ACS estimates for total population and median household income f
 
 ## Statistical Analysis
 Created scatterplots with linear regression lines to determine correlations between the Hispanic population and minimum household income.
+
 <img src='/images/LA_reg.PNG'>
 <img src='/images/NYC_reg.PNG'>
 <img src='/images/DC_reg.PNG'>
