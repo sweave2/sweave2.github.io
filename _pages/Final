@@ -1,0 +1,22 @@
+---
+layout: archive
+title: "Analysis of MLS Teams: City Demographics, Attendence, and Success"
+permalink: /final/
+author_profile: true
+---
+
+link paper
+
+## MLS Data and Map
+Obtained .csv data from ‘https://github.com/gavinr/usa-soccer’ and removed unnecessary data. Added total championships for each team, data from ‘https://www.goal.com/en-us/news/mls-cup-all-winners-list/blt15fd45904a53e495’.
+link mls map
+
+Obtained average attendance records for the 2021 season from ‘https://www.worldfootball.net/attendance/usa-major-league-soccer-2021/3/’
+
+## LA, DC, and NYC Demographics
+Obtained 1-year ACS estimates for total population and median household income for LA, DC, and the Bronx.
+link maps
+
+## Statistical Analysis
+Created scatterplots with linear regression lines to determine correlations between the Hispanic population and minimum household income.
+link plots
